@@ -87,6 +87,7 @@ article {
 }
 .footer {
     background-color: #ebebeb;
+    clear: both;
     text-align: center;
     height: 80px;
     width: 80%;
